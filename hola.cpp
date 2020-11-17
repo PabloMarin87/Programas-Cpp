@@ -4,6 +4,5 @@ int main ()
 {
 cout << "Hola Mundo" ;
 cout << "Adiós Mundo" ;
-cout << "Adiós Mundo" ;
 return 0 ;
 }
